@@ -1,0 +1,57 @@
+**************************************************
+Checking cost value of sit:
+**************************************************
+        Cost 	        Value
+Cost: userForce_sit 
+userForce_sit 	 5.25224189E+02
+Cost: torque_sit 
+  torque_sit 	 4.40743235E+03
+Cost: torsoRotAccel_sit 
+torsoRotAccel_sit 	 1.06137653E+05
+Cost: torsoRotVel_sit 
+torsoRotVel_sit 	 9.15220385E-01
+Cost: torsoRotJerk_sit 
+torsoRotJerk_sit 	 1.56464294E+03
+**************************************************
+**************************************************
+Checking cost value of sitStand:
+**************************************************
+        Cost 	        Value
+**************************************************
+**************************************************
+Checking cost value of standZMP:
+**************************************************
+        Cost 	        Value
+Cost: userForce_standZMP 
+userForce_standZMP 	 8.15989104E+03
+Cost: torque_standZMP 
+torque_standZMP 	 8.75440752E+04
+Cost: kneeDiffstandZMP 
+kneeDiffstandZMP 	 1.28106173E+04
+Cost: torsoRotAccel_standZMP 
+torsoRotAccel_standZMP 	 1.06648160E+06
+Cost: torsoRotVel_standZMP 
+torsoRotVel_standZMP 	 4.10999526E+03
+Cost: torsoRotJerk_standZMP 
+torsoRotJerk_standZMP 	 1.80614861E+02
+**************************************************
+**************************************************
+Checking cost value of zmpKnee:
+**************************************************
+        Cost 	        Value
+**************************************************
+**************************************************
+Checking cost value of standVert:
+**************************************************
+        Cost 	        Value
+Cost: userForce_standVert 
+userForce_standVert 	 8.47050556E+02
+Cost: torque_standVert 
+torque_standVert 	 2.35225497E+04
+Cost: torsoRotAccel_standVert 
+torsoRotAccel_standVert 	 1.21870699E+01
+Cost: torsoRotVel_standVert 
+torsoRotVel_standVert 	 4.26003843E+00
+Cost: torsoRotJerk_standVert 
+torsoRotJerk_standVert 	 1.83888696E+03
+**************************************************
